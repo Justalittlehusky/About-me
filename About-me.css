@@ -1,0 +1,14 @@
+	#Header{
+	text-align: center;
+	color: teal;
+}
+
+	#skills{
+		text-align: right;
+		background-color: blue;
+	}
+
+	#contact{
+		font-size: 30px;
+		color:orange;
+	}
